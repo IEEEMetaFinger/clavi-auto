@@ -3,7 +3,7 @@
 HIGHLY EXPERIMENTAL
 
 ### Instructions
-You need to have ~~nodejs~~, ~~npm~~ and ~~git~~ installed.
+You need to have [`nodejs`](https://nodejs.org/), [`npm`](https://www.npmjs.com/) and [`git`](https://git-scm.com/) installed.
 
 ~~~shell
 # clone the repo:
