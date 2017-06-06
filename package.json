@@ -1,0 +1,28 @@
+{
+  "name": "clavi",
+  "version": "0.1.0",
+  "description": "Your college on your palm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krushndayshmookh/clavi-auto.git"
+  },
+  "keywords": [
+    "clavi"
+  ],
+  "author": "Krushn Dayshmookh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krushndayshmookh/clavi-auto/issues"
+  },
+  "homepage": "https://github.com/krushndayshmookh/clavi-auto#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "pug": "^2.0.0-rc.2"
+  }
+}

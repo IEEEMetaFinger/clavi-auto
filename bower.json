@@ -1,0 +1,23 @@
+{
+  "name": "clavi",
+  "description": "Your college on your palm.",
+  "main": "index.js",
+  "authors": [
+    "Krushn Dayshmookh"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "clavi"
+  ],
+  "homepage": "http://krushndayshmookh.github.io/clavi",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.98.2"
+  }
+}
